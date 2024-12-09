@@ -87,9 +87,10 @@ O montador suporta um conjunto específico de instruções MIPS, incluindo o gru
 ```
 
 ## 👥 Equipe
-- Luis Antonio Benjamim Flexa
+
+- Enzo Bittencourt Luz
 - Giovanna Amaral Franceschi
-- [Nome do Membro 3]
+- Luis Antonio Benjamim Flexa
 
 ## 📝 Licença
 
